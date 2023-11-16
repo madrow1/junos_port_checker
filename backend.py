@@ -55,7 +55,7 @@ VlanTable:
 VlanView:
   fields:
    name: l2ng-l2rtb-name
-   interfaces: [l2ng-l2rtb-vlan-member/l2ng-l2rtb-vlan-member-interface, l2ng-l2rtb-vlan-member/l2ng-l2rtb-vlan-member-interface-mode]
+   interfaces: l2ng-l2rtb-vlan-member/l2ng-l2rtb-vlan-member-interface
 
     """
 
