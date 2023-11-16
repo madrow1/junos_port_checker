@@ -1,0 +1,80 @@
+
+
+Host: 192.168.0.29 User: rowan 
+Connection successful 
+Time to execute: 9.012871026992798 
+Host: 192.168.0.29 User: rowan 
+Connection successful 
+Time to execute: 9.279649019241333 
+Host: 192.168.0.29 User: rowan 
+Connection successful 
+Time to execute: 8.821401834487915 
+Host: 192.168.0.29 User: rowan 
+Connection successful 
+Time to execute: 9.302152872085571 
+Host: 192.168.0.29 User: rowan 
+Connection successful 
+Time to execute: 8.789551973342896 
+Host: 192.168.0.29 User: rowan 
+Connection successful 
+Time to execute: 9.215338945388794 
+Host: 192.168.0.29 User: rowan 
+Connection successful 
+Time to execute: 10.35560917854309 
+Host: 192.168.0.29 User: rowan 
+Connection successful 
+Time to execute: 10.908324003219604 
+Host: 192.168.0.29 User: rowan 
+Connection successful 
+Time to execute: 9.517200946807861 
+Host: 192.168.0.29 User: rowan 
+Connection successful 
+Time to execute: 9.727617979049683 
+Host: 192.168.0.29 User: rowan 
+Connection successful 
+Time to execute: 9.910726070404053 
+Host: 192.168.0.29 User: rowan 
+Connection successful 
+Time to execute: 8.992478847503662 
+Host: 192.168.0.29 User: rowan 
+Connection successful 
+Time to execute: 9.82776689529419 
+Host: 192.168.0.29 User: rowan 
+Connection successful 
+Time to execute: 9.656975269317627 
+Host: 192.168.0.29 User: rowan 
+Connection successful 
+Time to execute: 9.622353076934814 
+Host: 192.168.0.29 User: rowan 
+Connection successful 
+Time to execute: 9.359493970870972 
+Host: 192.168.0.29 User: rowan 
+Connection successful 
+Time to execute: 9.153339147567749 
+Host: 192.168.0.29 User: rowan 
+Connection successful 
+Time to execute: 9.562655925750732 
+Host: 192.168.0.29 User: rowan 
+Connection successful 
+Time to execute: 9.24481987953186 
+Host: 192.168.0.29 User: rowan 
+Connection successful 
+Time to execute: 9.358458757400513 
+Host: 192.168.0.29 User: rowan 
+Connection successful 
+Time to execute: 8.625149250030518 
+Host: 192.168.0.29 User: rowan 
+Connection successful 
+Time to execute: 9.122581005096436 
+Host: 192.168.0.29 User: rowan 
+Connection successful 
+Time to execute: 9.37290906906128 
+Host: 192.168.0.29 User: rowan 
+Connection successful 
+Time to execute: 8.864443302154541 
+Host: 192.168.0.29 User: rowan 
+Connection successful 
+Time to execute: 9.377198934555054 
+Host: 192.168.0.29 User: rowan 
+Connection successful 
+Time to execute: 8.851146221160889 
