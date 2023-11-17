@@ -50,3 +50,15 @@ Time to execute: 30.006659030914307
 Host: 192.168.0.29 User: rowan 
 Connection successful 
 Time to execute: 8.187070846557617 
+Host: 192.168.0.29 User: rowan 
+Connection successful 
+Time to execute: 8.999016046524048 
+Host: 192.168.0.29 User: rowan 
+Connection successful 
+Time to execute: 8.73006820678711 
+Host: 192.168.0.29 User: rowan 
+Connection successful 
+Time to execute: 9.42461895942688 
+Host: 192.168.0.29 User: rowan 
+Connection successful 
+Time to execute: 9.148483037948608 
