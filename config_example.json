@@ -1,0 +1,7 @@
+{
+    "junos_login": {
+        "host": "",
+        "user": "",
+        "password": ""
+    }
+}
