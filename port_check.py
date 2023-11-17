@@ -7,7 +7,7 @@ def main():
         start_time = time.time()
         vars = backend.read_json_config('config.json')
         check_con = backend.conn_test(hostname=vars["junos_login"]["host"], username=vars["junos_login"]["user"], junos_pass=vars["junos_login"]["password"],start_time=start_time)
-        backend.get_facts(vars)
+        #backend.get_facts(vars)
         backend.check_eth_status(vars)
         end_time = time.time() - start_time
         backend.log(vars,check_con,end_time)

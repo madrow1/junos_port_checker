@@ -37,10 +37,10 @@ def log(vars,check_con,end_time):
              log.writelines(log_con)
              log.writelines(time_taken)
 
-def get_facts(vars):
-    dev = Device(host=vars["junos_login"]["host"], user=vars["junos_login"]["user"], passwd=vars["junos_login"]["password"], use_filter=True) 
+#def get_facts(vars):
+#    dev = Device(host=vars["junos_login"]["host"], user=vars["junos_login"]["user"], passwd=vars["junos_login"]["password"], use_filter=True) 
     #print(dev.facts['hostname'])
-    print(dev.facts)
+#    print(dev.facts)
 
 def check_eth_status(vars):
     port_yml = """
@@ -55,9 +55,6 @@ PortView:
    vlan: unit/family/ethernet-switching/storm-control/profile-name
    vlan-id: unit/vlan-id
    inet_address: unit/family/inet/address/name
-    """
-    vlan_yaml = """
----
 VlanTable:
   rpc: get-vlan-information
   item: l2ng-l2ald-vlan-instance-group
@@ -70,7 +67,6 @@ VlanView:
    mode: l2ng-l2rtb-vlan-member/l2ng-l2rtb-vlan-member-interface-mode
     """
 
-    globals().update(FactoryLoader().load(yaml.load(vlan_yaml, Loader=yaml.FullLoader)))
     globals().update(FactoryLoader().load(yaml.load(port_yml, Loader=yaml.FullLoader)))    
 
     with Device(host=vars["junos_login"]["host"], user=vars["junos_login"]["user"], passwd=vars["junos_login"]["password"], use_filter=True) as dev:
